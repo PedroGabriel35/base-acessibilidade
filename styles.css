@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #636363;
-    --alto-contraste-fundo: #000000;
+    --alto-contraste-fundo: #b92f2f;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #b9b9b9;
 }
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #414141;
+    background-color: #cc3232;
     border: none;
     font-weight: bold;
 }
